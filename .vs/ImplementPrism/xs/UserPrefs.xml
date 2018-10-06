@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{8C8D9BC1-5AB6-477E-A175-68DF02FB2A4C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ImplementPrism/Views/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImplementPrism/App.xaml.cs">
     <Files>
-      <File FileName="ImplementPrism/Views/LoginPage.xaml" Line="15" Column="18" />
-      <File FileName="ImplementPrism/ViewModels/LoginPageViewModel.cs" Line="47" Column="1" />
-      <File FileName="ImplementPrism/App.xaml.cs" Line="25" Column="9" />
-      <File FileName="ImplementPrism.Android/MainActivity.cs" Line="21" Column="61" />
-      <File FileName="ImplementPrism/Views/MainPage.xaml" Line="8" Column="26" />
+      <File FileName="ImplementPrism/ViewModels/MainPageViewModel.cs" Line="16" Column="22" />
+      <File FileName="ImplementPrism/ViewModels/LoginPageViewModel.cs" Line="34" Column="77" />
+      <File FileName="ImplementPrism/Views/MainPage.xaml" Line="10" Column="41" />
+      <File FileName="ImplementPrism/App.xaml.cs" Line="31" Column="65" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,9 +15,11 @@
               <Node name="Util" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="MainPage.xaml" expanded="True" selected="True" />
+                <Node name="MainPage.xaml" expanded="True" />
               </Node>
-              <Node name="App.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="ImplementPrism.Android" expanded="True" />
           </Node>
